@@ -36,6 +36,7 @@
   },
   "devDependencies": {
     "contentful-import": "^8.2.29",
+    "dotenv": "^16.0.1",
     "husky": "^7.0.4",
     "lint-staged": "^12.3.5",
     "prettier": "2.5.1"
